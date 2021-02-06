@@ -4,7 +4,7 @@ Chrome Extension that provide shortcut to jump to google search box.
 
 Default key is <Ctrl + Shift + s>.
 
-<img src="https://user-images.githubusercontent.com/5201487/107119122-ce5ecf80-68c8-11eb-887d-3bfd74e0e3d1" width="400">
+<img src="https://user-images.githubusercontent.com/5201487/107119151-0403b880-68c9-11eb-9c10-6d4228da7665.png" width="400">
 
 
 ## How to use
